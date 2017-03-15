@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "SXSettingView.h"
+#import "SXSettingTableView.h"
 
 @interface SXSettingTableViewController : UIViewController
 

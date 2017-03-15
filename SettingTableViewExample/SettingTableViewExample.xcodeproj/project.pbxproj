@@ -63,7 +63,7 @@
 		7B45B96F1E72889400B78C1C /* SXSettingLabelItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SXSettingLabelItem.m; sourceTree = "<group>"; };
 		7B45B9701E72889400B78C1C /* SXSettingSwitchItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SXSettingSwitchItem.h; sourceTree = "<group>"; };
 		7B45B9711E72889400B78C1C /* SXSettingSwitchItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SXSettingSwitchItem.m; sourceTree = "<group>"; };
-		7B45B9721E72889400B78C1C /* SXSettingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SXSettingView.h; sourceTree = "<group>"; };
+		7B45B9721E72889400B78C1C /* SXSettingTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SXSettingTableView.h; sourceTree = "<group>"; };
 		7B45B9741E72889400B78C1C /* SXSettingCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SXSettingCell.h; sourceTree = "<group>"; };
 		7B45B9751E72889400B78C1C /* SXSettingCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SXSettingCell.m; sourceTree = "<group>"; };
 		7B45B9781E72889400B78C1C /* SXSettingCustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SXSettingCustomCell.h; sourceTree = "<group>"; };
@@ -159,7 +159,7 @@
 		7B45B9621E72889400B78C1C /* SXSettingTableView */ = {
 			isa = PBXGroup;
 			children = (
-				7B45B9721E72889400B78C1C /* SXSettingView.h */,
+				7B45B9721E72889400B78C1C /* SXSettingTableView.h */,
 				7B45B99F1E790F6900B78C1C /* SXSettingTableViewController.h */,
 				7B45B9A01E790F6900B78C1C /* SXSettingTableViewController.m */,
 				7B45B9631E72889400B78C1C /* SettingModel */,
