@@ -1,12 +1,10 @@
 # SXSettingTableView
 
 ## 效果
-------
 
 ![效果图](./images/userSettingViewController.png)
 
-用法
-------
+## 用法
 
 ```Objective-C
 SXSettingItem *item01 = [SXSettingCustomItem itemWithTitle:@"头像" image:[UIImage imageNamed:@"ic_center_menu_gz"]];
